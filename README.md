@@ -1,5 +1,5 @@
 # Daily-Coding-Challenges
-The daily coding challenge is a free service provided by dailycodingchallenge.com, where they send a random question that has been asked in an interview before everyday.
+The daily coding challenge is a free service provided by https://dailycodingproblem.com, where they send a random question that has been asked in an interview before everyday.
 
 I try to solve this challenges daily and put my solutions here.
 
